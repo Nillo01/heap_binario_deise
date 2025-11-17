@@ -1,4 +1,7 @@
 # heap_binario
+Trabalho T2
+
+Trabalho de pesquisa e implementação
 Trabalho em grupos de 2 ou 3 alunos (não serão aceitos trabalhos individuais em razão do curto prazo
 
 para correção antes da divulgação das médias finais)
