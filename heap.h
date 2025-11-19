@@ -20,5 +20,6 @@ void imprimir_heap(heap* h);
 void heap_troca(heap *h, int pos1, int pos2);
 void heap_corrige_descendo(heap *h, int pos);
 int heap_remove(heap *h);
+void heap_destroi(heap *h);
 
 #endif
