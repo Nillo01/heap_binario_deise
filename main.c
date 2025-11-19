@@ -37,5 +37,6 @@ int main(){
         }
 
     }
+    heap_destroi(h);
     return 0;
 }
