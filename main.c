@@ -26,7 +26,8 @@ int main(){
                 break;
             }
             case 2:
-                heap_remove(h);
+                int removido = heap_remove(h);
+                printf("Valor removido: %d\n", removido);
                 break;
             case 3:
                 imprimir_heap(h);
